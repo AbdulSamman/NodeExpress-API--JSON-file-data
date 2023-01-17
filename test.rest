@@ -6,3 +6,9 @@
 
 ### GET BOOKS
 GET {{url}}/books
+
+### GET BOOK with ID 3
+GET {{url}}/book/3
+
+### GET a filtred book with ID 3
+GET {{url}}/filtredbook/3
